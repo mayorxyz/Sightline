@@ -3,7 +3,7 @@ import {HeroSection} from '../sections/HeroSection';
 import {HeadlineSection} from '../sections/HeadlineSection';
 import {Footer} from '../components/Footer';
 
-const WhySightline = lazy(() => import('../sections/WhySightline'));
+const WhySightline = lazy(() => import('../sections/WhyOrchestrateIQ'));
 const FeaturesSection = lazy(() => import('../sections/FeaturesSection'));
 const DashboardSection = lazy(() => import('../sections/DashboardSection'));
 const HowItWorks = lazy(() => import('../sections/HowItWorks'));
