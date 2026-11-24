@@ -445,5 +445,4 @@ Page-level composition blocks used primarily on the home page:
 - **Lazy loading:** All sub-pages are code-split via `React.lazy()` with a `SubPageFallback` skeleton during load.
 - **SEO:** Route meta titles/descriptions are synced to `<head>` via `RouteSync` on navigation.
 - **Asset copying:** The Vite build copies `src/assets` to `dist/src/assets` so root-relative image URLs (e.g., generated images) continue working in production.
-#   S i g h t l i n e  
- 
+#

@@ -1,0 +1,6 @@
+{
+  "name": "Sightline",
+  "description": "The observability layer for modern AI agents. Full traces, evals, cost telemetry, and real-time alerts across every agent run.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
